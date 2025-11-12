@@ -1,0 +1,70 @@
+name: Fetch Migu Data
+
+on:
+  schedule:
+    # 每2小时执行一次
+    - cron: '0 */2 * * *'
+  push:
+    branches: [ main ]
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 步骤1：检出您的GitHub仓库
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 步骤2：设置 Node.js 环境
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '21.5.0'
+          cache: 'npm'
+
+      # 步骤3：配置NPM镜像加速
+      - name: Setup NPM registry
+        run: npm config set registry https://registry.npmmirror.com
+
+      # 步骤4：安装依赖
+      - name: Install dependencies
+        run: npm install
+
+      # 步骤5：执行数据抓取脚本（根据您的文件选择）
+      - name: Run fetch scripts
+        run: |
+          # 执行主要的抓取脚本
+          node fetchURLByAndroid720p.js
+          # 如果需要，可以同时运行其他脚本
+          # node fetchURLByAndroid.js
+          # node updateData.js
+
+      # 步骤6：配置Git用户信息
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # 步骤7：检查变更并提交
+      - name: Check and commit changes
+        id: commit
+        run: |
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "✅ 没有检测到数据变更"
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+            git add .
+            git commit -m "🔄 自动更新数据 [$(date +'%Y-%m-%d %H:%M')]"
+            echo "✅ 数据已更新并提交"
+          fi
+
+      # 步骤8：推送变更到您的GitHub仓库
+      - name: Push changes
+        if: steps.commit.outputs.changes == 'true'
+        run: git push origin main
