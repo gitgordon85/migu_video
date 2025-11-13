@@ -97,13 +97,13 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV1综合" start="20251113120100 +0800" stop="20251113120600 +0800">
-        <title lang="zh">前情提要-乌蒙深处-3/28</title>
+        <title lang="zh">前情提要-乌蒙深处-第3集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251113120600 +0800" stop="20251113125640 +0800">
-        <title lang="zh">乌蒙深处3/28</title>
+        <title lang="zh">乌蒙深处第3集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251113125640 +0800" stop="20251113130050 +0800">
-        <title lang="zh">前情提要-乌蒙深处-4/28</title>
+        <title lang="zh">前情提要-乌蒙深处-第4集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251113130050 +0800" stop="20251113134945 +0800">
         <title lang="zh">乌蒙深处4/28</title>
@@ -492,14 +492,14 @@
     <programme channel="CCTV5体育" start="20251113010000 +0800" stop="20251113020000 +0800">
         <title lang="zh">实况录像-第十五届全国运动会 足球男子20岁以下组金牌赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251113020000 +0800" stop="20251113040000 +0800">
+    <programme channel="CCTV5体育" start="20251113020000 +0800" stop="20251113041700 +0800">
         <title lang="zh">第十五届全国运动会-乒乓球多项比赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251113040000 +0800" stop="20251113043000 +0800">
+    <programme channel="CCTV5体育" start="20251113041700 +0800" stop="20251113051800 +0800">
         <title lang="zh">体坛快讯-全运最前沿</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251113043000 +0800" stop="20251113070000 +0800">
-        <title lang="zh">第十五届全国运动会-乒乓球单打1/4、混双半决赛</title>
+    <programme channel="CCTV5体育" start="20251113051800 +0800" stop="20251113070000 +0800">
+        <title lang="zh">实况录像-第十五届全国运动会-体操男团决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20251113070000 +0800" stop="20251113090000 +0800">
         <title lang="zh">第十五届全国运动会-举重女子76公斤级</title>
@@ -865,25 +865,25 @@
         <title lang="zh">本集提要-四喜-第13集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251113113000 +0800" stop="20251113122505 +0800">
-        <title lang="zh">四喜13/36</title>
+        <title lang="zh">四喜第13集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251113122505 +0800" stop="20251113123005 +0800">
         <title lang="zh">本集提要-四喜-第14集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251113123005 +0800" stop="20251113132150 +0800">
-        <title lang="zh">四喜14/36</title>
+        <title lang="zh">四喜第14集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251113132150 +0800" stop="20251113132645 +0800">
         <title lang="zh">本集提要-隐锋-第7集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251113132645 +0800" stop="20251113141600 +0800">
-        <title lang="zh">隐锋7/37</title>
+        <title lang="zh">隐锋第7集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251113141600 +0800" stop="20251113141805 +0800">
         <title lang="zh">本集提要-隐锋-第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251113141805 +0800" stop="20251113150720 +0800">
-        <title lang="zh">隐锋8/37</title>
+        <title lang="zh">隐锋第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251113150720 +0800" stop="20251113155320 +0800">
         <title lang="zh">完美伴侣第14集</title>
@@ -3544,11 +3544,8 @@
     <programme channel="24小时全运会轮播台" start="20251113070000 +0800" stop="20251113093000 +0800">
         <title lang="zh">拳击 男女子金牌赛</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251113093000 +0800" stop="20251113094000 +0800">
-        <title lang="zh">睛彩圈圈点：岭南非遗融合前沿科技全运会开幕式亮点解析</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251113094000 +0800" stop="20251113094500 +0800">
-        <title lang="zh">《同根同梦 港澳新声》 郑斯方：香江北上 逐梦北京</title>
+    <programme channel="24小时全运会轮播台" start="20251113093000 +0800" stop="20251113094500 +0800">
+        <title lang="zh">《中国榜样》对话龙道一纯享版：你想要成功 没有人可以阻止你</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251113094500 +0800" stop="20251113163000 +0800">
         <title lang="zh">乒乓球 第7比赛日 晚间场  4号桌 女单1/4决赛 孙颖莎vs刘斐</title>
