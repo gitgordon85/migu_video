@@ -93,23 +93,20 @@
     <programme channel="CCTV1综合" start="20251113110000 +0800" stop="20251113113920 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251113113920 +0800" stop="20251113120100 +0800">
+    <programme channel="CCTV1综合" start="20251113113920 +0800" stop="20251113120500 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251113120100 +0800" stop="20251113120600 +0800">
+    <programme channel="CCTV1综合" start="20251113120500 +0800" stop="20251113121000 +0800">
         <title lang="zh">前情提要-乌蒙深处-第3集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251113120600 +0800" stop="20251113125640 +0800">
+    <programme channel="CCTV1综合" start="20251113121000 +0800" stop="20251113130040 +0800">
         <title lang="zh">乌蒙深处第3集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251113125640 +0800" stop="20251113130050 +0800">
+    <programme channel="CCTV1综合" start="20251113130040 +0800" stop="20251113130450 +0800">
         <title lang="zh">前情提要-乌蒙深处-第4集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251113130050 +0800" stop="20251113134945 +0800">
-        <title lang="zh">乌蒙深处4/28</title>
-    </programme>
-    <programme channel="CCTV1综合" start="20251113134945 +0800" stop="20251113140000 +0800">
-        <title lang="zh">山水间的家-主题曲</title>
+    <programme channel="CCTV1综合" start="20251113130450 +0800" stop="20251113140000 +0800">
+        <title lang="zh">乌蒙深处第4集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251113140000 +0800" stop="20251113143500 +0800">
         <title lang="zh">晚间新闻</title>
