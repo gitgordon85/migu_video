@@ -3538,10 +3538,10 @@
     <programme channel="24小时全运会轮播台" start="20251113033000 +0800" stop="20251113070000 +0800">
         <title lang="zh">乒乓球 第7比赛日 上午场  1号桌 混双半决赛 林高远/刘诗雯vs王艺迪/袁励岑 1号桌 女单1/4决赛 朱雨玲vs陈幸同 4号桌 男单1/4决赛 赵子豪vs林诗栋</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251113070000 +0800" stop="20251113093000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251113070000 +0800" stop="20251113091600 +0800">
         <title lang="zh">拳击 男女子金牌赛</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251113093000 +0800" stop="20251113094500 +0800">
+    <programme channel="24小时全运会轮播台" start="20251113091600 +0800" stop="20251113094500 +0800">
         <title lang="zh">《中国榜样》对话龙道一纯享版：你想要成功 没有人可以阻止你</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251113094500 +0800" stop="20251113163000 +0800">
@@ -4144,7 +4144,7 @@
     <programme channel="广东卫视" start="20251113150500 +0800" stop="20251113155000 +0800">
         <title lang="zh">神雕侠侣(19)</title>
     </programme>
-    <programme channel="广东卫视" start="20251113155000 +0800" stop="20251113160000 +0800">
+    <programme channel="广东卫视" start="20251113155000 +0800" stop="20251113161200 +0800">
         <title lang="zh">重播节目、纪录片</title>
     </programme>
     <channel id="江西卫视">
@@ -9700,7 +9700,7 @@
     <programme channel="嘉佳卡通" start="20251113131600 +0800" stop="20251113140000 +0800">
         <title lang="zh">猪猪侠之竞速小英雄七</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20251113140000 +0800" stop="20251113160000 +0800">
+    <programme channel="嘉佳卡通" start="20251113140000 +0800" stop="20251113220000 +0800">
         <title lang="zh">乌龙院之活宝传奇</title>
     </programme>
     <channel id="经典动画大集合">
