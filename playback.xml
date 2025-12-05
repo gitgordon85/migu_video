@@ -75,19 +75,16 @@
     <programme channel="CCTV3综艺" start="20251205112250 +0800" stop="20251205113000 +0800">
         <title lang="zh">国家宝藏-周游季-75</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251205113000 +0800" stop="20251205134020 +0800">
+    <programme channel="CCTV3综艺" start="20251205113000 +0800" stop="20251205143305 +0800">
         <title lang="zh">中国唱将-6-2</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251205134020 +0800" stop="20251205143105 +0800">
-        <title lang="zh">中国唱将-6-2</title>
+    <programme channel="CCTV3综艺" start="20251205143305 +0800" stop="20251205144855 +0800">
+        <title lang="zh">中国文艺报道-2025-67-追光者</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251205143105 +0800" stop="20251205144325 +0800">
-        <title lang="zh">中国文艺报道-2025-66-追光者</title>
-    </programme>
-    <programme channel="CCTV3综艺" start="20251205144325 +0800" stop="20251205151855 +0800">
+    <programme channel="CCTV3综艺" start="20251205144855 +0800" stop="20251205152425 +0800">
         <title lang="zh">慕名而来-5</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251205151855 +0800" stop="20251205155900 +0800">
+    <programme channel="CCTV3综艺" start="20251205152425 +0800" stop="20251205155900 +0800">
         <title lang="zh">综艺喜乐汇-2025-1341 青春之城29/33</title>
     </programme>
 </tv>
