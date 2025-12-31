@@ -63,7 +63,13 @@
     <programme channel="CCTV3综艺" start="20251231115350 +0800" stop="20251231120000 +0800">
         <title lang="zh">国家宝藏-周游季-101</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251231120000 +0800" stop="20251231155900 +0800">
-        <title lang="zh">启航2026——中央广播电视总台跨年晚会-完整版</title>
+    <programme channel="CCTV3综艺" start="20251231120000 +0800" stop="20251231135920 +0800">
+        <title lang="zh">启航2026——中央广播电视总台跨年晚会-1/4</title>
+    </programme>
+    <programme channel="CCTV3综艺" start="20251231135920 +0800" stop="20251231143000 +0800">
+        <title lang="zh">启航2026——中央广播电视总台跨年晚会-2/4</title>
+    </programme>
+    <programme channel="CCTV3综艺" start="20251231143000 +0800" stop="20251231155900 +0800">
+        <title lang="zh">启航2026——中央广播电视总台跨年晚会-3/4</title>
     </programme>
 </tv>
