@@ -3,76 +3,73 @@
     <channel id="CCTV3综艺">
         <display-name lang="zh">CCTV3综艺</display-name>
     </channel>
-    <programme channel="CCTV3综艺" start="20260117160000 +0800" stop="20260117162315 +0800">
-        <title lang="zh">综艺喜乐汇-2024-1160 烟火人家16/40</title>
+    <programme channel="CCTV3综艺" start="20260118160000 +0800" stop="20260118162945 +0800">
+        <title lang="zh">综艺喜乐汇-2024-1163 烟火人家19/40</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260117162315 +0800" stop="20260117170915 +0800">
-        <title lang="zh">综艺喜乐汇-2024-1161 烟火人家17/40</title>
+    <programme channel="CCTV3综艺" start="20260118162945 +0800" stop="20260118171545 +0800">
+        <title lang="zh">综艺喜乐汇-2024-1164 烟火人家20/40</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260117170915 +0800" stop="20260117183515 +0800">
-        <title lang="zh">影视留声机-2025-121-经典电影欣赏《大李小李和老李》</title>
+    <programme channel="CCTV3综艺" start="20260118171545 +0800" stop="20260118191000 +0800">
+        <title lang="zh">影视留声机-2025-137-经典电影欣赏《早春二月》</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260117183515 +0800" stop="20260117202015 +0800">
-        <title lang="zh">乐在旅途第三季-6</title>
+    <programme channel="CCTV3综艺" start="20260118191000 +0800" stop="20260118191045 +0800">
+        <title lang="zh">精彩艺瞬间-17</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260117202015 +0800" stop="20260117202830 +0800">
-        <title lang="zh">国家宝藏-周游季-104</title>
+    <programme channel="CCTV3综艺" start="20260118191045 +0800" stop="20260118210345 +0800">
+        <title lang="zh">乐在旅途第三季-7</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260117202830 +0800" stop="20260117203100 +0800">
-        <title lang="zh">精彩艺瞬间-8</title>
+    <programme channel="CCTV3综艺" start="20260118210345 +0800" stop="20260118210615 +0800">
+        <title lang="zh">精彩艺瞬间-39</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260117203100 +0800" stop="20260117214915 +0800">
-        <title lang="zh">向幸福出发-2025-16</title>
+    <programme channel="CCTV3综艺" start="20260118210615 +0800" stop="20260118214515 +0800">
+        <title lang="zh">衣锦天下丝路季-1</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260117214915 +0800" stop="20260117224015 +0800">
-        <title lang="zh">绽放吧！妈妈-24</title>
+    <programme channel="CCTV3综艺" start="20260118214515 +0800" stop="20260118230715 +0800">
+        <title lang="zh">星光大道-2025-48（这一站星光41）</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260117224015 +0800" stop="20260117235620 +0800">
-        <title lang="zh">雏凤新声——中央广播电视总台 首届少儿戏曲大会-7（综艺版）</title>
+    <programme channel="CCTV3综艺" start="20260118230715 +0800" stop="20260119001730 +0800">
+        <title lang="zh">精彩音乐汇-我的爱对你说-2025-466</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260117235620 +0800" stop="20260118010900 +0800">
-        <title lang="zh">精彩音乐汇-我的爱对你说-2025-461</title>
+    <programme channel="CCTV3综艺" start="20260119001730 +0800" stop="20260119032840 +0800">
+        <title lang="zh">中国唱将-6</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260118010900 +0800" stop="20260118024215 +0800">
-        <title lang="zh">星光大道-2025-51（这一站星光44）</title>
+    <programme channel="CCTV3综艺" start="20260119032840 +0800" stop="20260119050000 +0800">
+        <title lang="zh">开门大吉-2025-24</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260118024215 +0800" stop="20260118041010 +0800">
-        <title lang="zh">越战越勇-2025-39</title>
+    <programme channel="CCTV3综艺" start="20260119050000 +0800" stop="20260119052030 +0800">
+        <title lang="zh">文化十分-2026-13</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260118041010 +0800" stop="20260118042255 +0800">
-        <title lang="zh">国家宝藏-周游季-118</title>
-    </programme>
-    <programme channel="CCTV3综艺" start="20260118042255 +0800" stop="20260118074635 +0800">
-        <title lang="zh">中国唱将-11</title>
-    </programme>
-    <programme channel="CCTV3综艺" start="20260118074635 +0800" stop="20260118093445 +0800">
-        <title lang="zh">笑有新生-6</title>
-    </programme>
-    <programme channel="CCTV3综艺" start="20260118093445 +0800" stop="20260118094140 +0800">
-        <title lang="zh">精彩艺瞬间-30</title>
-    </programme>
-    <programme channel="CCTV3综艺" start="20260118094140 +0800" stop="20260118111055 +0800">
-        <title lang="zh">开门大吉-2025-16</title>
-    </programme>
-    <programme channel="CCTV3综艺" start="20260118111055 +0800" stop="20260118112250 +0800">
-        <title lang="zh">中国文艺报道-2025-71-追光者</title>
-    </programme>
-    <programme channel="CCTV3综艺" start="20260118112250 +0800" stop="20260118113000 +0800">
+    <programme channel="CCTV3综艺" start="20260119052030 +0800" stop="20260119053135 +0800">
         <title lang="zh">国家宝藏-周游季-119</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260118113000 +0800" stop="20260118125505 +0800">
-        <title lang="zh">2026年开门迎春晚-5</title>
+    <programme channel="CCTV3综艺" start="20260119053135 +0800" stop="20260119072005 +0800">
+        <title lang="zh">笑有新生-3</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260118125505 +0800" stop="20260118142340 +0800">
-        <title lang="zh">越战越勇-2025-28</title>
+    <programme channel="CCTV3综艺" start="20260119072005 +0800" stop="20260119072440 +0800">
+        <title lang="zh">精彩艺瞬间-41</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260118142340 +0800" stop="20260118145745 +0800">
-        <title lang="zh">艺熠生辉-6</title>
+    <programme channel="CCTV3综艺" start="20260119072440 +0800" stop="20260119085550 +0800">
+        <title lang="zh">星光大道-2025-49（这一站星光42）</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260118145745 +0800" stop="20260118154345 +0800">
-        <title lang="zh">综艺喜乐汇-2024-1162 烟火人家18/40</title>
+    <programme channel="CCTV3综艺" start="20260119085550 +0800" stop="20260119095825 +0800">
+        <title lang="zh">综艺喜乐汇-2025-1108</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260118154345 +0800" stop="20260118155900 +0800">
-        <title lang="zh">综艺喜乐汇-2024-1163 烟火人家19/40</title>
+    <programme channel="CCTV3综艺" start="20260119095825 +0800" stop="20260119112245 +0800">
+        <title lang="zh">越战越勇-2025-46</title>
+    </programme>
+    <programme channel="CCTV3综艺" start="20260119112245 +0800" stop="20260119113000 +0800">
+        <title lang="zh">国家宝藏-周游季-120</title>
+    </programme>
+    <programme channel="CCTV3综艺" start="20260119113000 +0800" stop="20260119125620 +0800">
+        <title lang="zh">开门大吉-2026-3</title>
+    </programme>
+    <programme channel="CCTV3综艺" start="20260119125620 +0800" stop="20260119140135 +0800">
+        <title lang="zh">艺境之旅-水舞间</title>
+    </programme>
+    <programme channel="CCTV3综艺" start="20260119140135 +0800" stop="20260119151620 +0800">
+        <title lang="zh">2026年开门迎春晚-2</title>
+    </programme>
+    <programme channel="CCTV3综艺" start="20260119151620 +0800" stop="20260119155900 +0800">
+        <title lang="zh">综艺喜乐汇-2024-1165 烟火人家21/40</title>
     </programme>
 </tv>
